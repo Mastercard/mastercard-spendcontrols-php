@@ -1,0 +1,76 @@
+MasterCard\Api\Spendcontrols\All
+ [x] 100 example cardregister postrequest
+ [x] 101 example retrieve uuid postrequest
+ [x] 102 example cardrverify postrequest
+ [x] 103 example retrievepan getrequest
+ [x] 104 example controls resource post
+ [x] 105 example controls resource get
+ [x] 106 example controls resource delete
+ [x] 107 example alerts resource post
+ [x] 108 example alerts resource get
+ [x] 109 example alerts resource delete
+ [x] 110 example channel resource post
+ [x] 111 example channel resource get
+ [x] 112 example channel resource delete
+ [x] 113 example crossborder post
+ [x] 114 example crossborder get
+ [x] 115 example crossborder delete
+ [x] 116 example amount post
+ [x] 117 example amount get
+ [x] 118 example amount delete
+ [x] 119 example declines postrequest
+ [x] 120 example declines getrequest
+ [x] 123 example declines deleterequest
+ [x] 124 example crossborder decline post
+ [x] 125 example crossborder decline get
+ [x] 126 example crossborder decline delete
+ [x] 127 example amount decline post
+ [x] 128 example amount decline get
+ [x] 129 example amount decline delete
+ [x] 130 example channel decline resource post
+ [x] 131 example channel decline resource get
+ [x] 132 example channel decline resource delete
+ [x] 133 example alerts all resource post
+ [x] 134 example alerts all resource get
+ [x] 135 example alerts all resource delete
+ [x] 136 example card decline post
+ [x] 137 example card decline get
+ [x] 138 example card decline delete
+ [x] 139 example geolocation resource post
+ [x] 140 example geolocation resource get
+ [x] 141 example geolocation resource delete
+ [x] 142 example geolocation decline post
+ [x] 143 example geolocation decline get
+ [x] 144 example geolocation decline delete
+ [x] 145 example merchant resource post
+ [x] 146 example merchant resource get
+ [x] 147 example merchant resource delete
+ [x] 148 example notification endpoint post
+ [x] 149 example merchant category code decline post
+ [x] 150 example merchant category code decline get
+ [x] 151 example merchant category code decline delete
+ [x] 152 example transaction history resource get
+ [x] 153 example controls history resource get
+ [x] 163 example controls budgets resource post
+ [x] 164 example controls budgets resource get
+ [x] 165 example controls budgets resource PostWithbudgetId
+ [x] 166 example controls budgets resource getWithbudgetId
+ [x] 167 example controls budgets resource Delete
+ [x] 173 example controls budgets resource decline post
+ [x] 174 example controls budgets resource decline get
+ [x] 175 example controls budgets resource decline post with budgetId
+ [x] 176 example controls budgets resource Decline get WithbudgetId
+ [x] 177 example controls budgets resource decline deleteWithbudgetId
+ [x] 178 example batch resource post
+ [x] 179 example batch resource get
+ [x] 180 example filter controls alert post request
+ [x] 181 example filter controls alert get request
+ [x] 182 example filter controls alert post filter request
+ [x] 184 example filter controls alert delete filter request
+ [x] 185 example filter controls decline post request
+ [x] 186 example filter controls decline get request
+ [x] 188 example filter controls decline post filter request
+ [x] 189 example filter controls decline delete filter request
+ [x] 190 example cardupdate postrequest
+ [x] 200 example cardregister deleterequest
+
