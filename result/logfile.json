@@ -1,0 +1,1088 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 83
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "tests": 83
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_100_example_cardregister_postrequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_100_example_cardregister_postrequest",
+    "status": "pass",
+    "time": 0.71450686454773,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_101_example_retrieve_uuid_postrequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_101_example_retrieve_uuid_postrequest",
+    "status": "pass",
+    "time": 0.3820788860321,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_102_example_cardrverify_postrequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_102_example_cardrverify_postrequest",
+    "status": "pass",
+    "time": 0.49719309806824,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_103_example_retrievepan_getrequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_103_example_retrievepan_getrequest",
+    "status": "pass",
+    "time": 0.38020610809326,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_104_example_controls_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_104_example_controls_resource_post",
+    "status": "pass",
+    "time": 0.6139931678772,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_105_example_controls_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_105_example_controls_resource_get",
+    "status": "pass",
+    "time": 0.54151892662048,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_106_example_controls_resource_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_106_example_controls_resource_delete",
+    "status": "pass",
+    "time": 0.78142809867859,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_107_example_alerts_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_107_example_alerts_resource_post",
+    "status": "pass",
+    "time": 0.60595512390137,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_108_example_alerts_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_108_example_alerts_resource_get",
+    "status": "pass",
+    "time": 0.61935496330261,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_109_example_alerts_resource_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_109_example_alerts_resource_delete",
+    "status": "pass",
+    "time": 0.49193906784058,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_110_example_channel_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_110_example_channel_resource_post",
+    "status": "pass",
+    "time": 0.42126679420471,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_111_example_channel_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_111_example_channel_resource_get",
+    "status": "pass",
+    "time": 0.49327611923218,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_112_example_channel_resource_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_112_example_channel_resource_delete",
+    "status": "pass",
+    "time": 0.74148488044739,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_113_example_crossborder_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_113_example_crossborder_post",
+    "status": "pass",
+    "time": 0.48519420623779,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_114_example_crossborder_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_114_example_crossborder_get",
+    "status": "pass",
+    "time": 0.40192604064941,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_115_example_crossborder_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_115_example_crossborder_delete",
+    "status": "pass",
+    "time": 0.47212791442871,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_116_example_amount_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_116_example_amount_post",
+    "status": "pass",
+    "time": 0.40715885162354,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_117_example_amount_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_117_example_amount_get",
+    "status": "pass",
+    "time": 0.50787806510925,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_118_example_amount_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_118_example_amount_delete",
+    "status": "pass",
+    "time": 0.54711389541626,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_119_example_declines_postrequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_119_example_declines_postrequest",
+    "status": "pass",
+    "time": 0.4647068977356,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_120_example_declines_getrequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_120_example_declines_getrequest",
+    "status": "pass",
+    "time": 0.49745988845825,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_123_example_declines_deleterequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_123_example_declines_deleterequest",
+    "status": "pass",
+    "time": 0.54937195777893,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_124_example_crossborder_decline_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_124_example_crossborder_decline_post",
+    "status": "pass",
+    "time": 0.42535090446472,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_125_example_crossborder_decline_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_125_example_crossborder_decline_get",
+    "status": "pass",
+    "time": 0.52535915374756,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_126_example_crossborder_decline_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_126_example_crossborder_decline_delete",
+    "status": "pass",
+    "time": 0.41901111602783,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_127_example_amount_decline_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_127_example_amount_decline_post",
+    "status": "pass",
+    "time": 0.42256903648376,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_128_example_amount_decline_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_128_example_amount_decline_get",
+    "status": "pass",
+    "time": 0.51212191581726,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_129_example_amount_decline_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_129_example_amount_decline_delete",
+    "status": "pass",
+    "time": 0.62452983856201,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_130_example_channel_decline_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_130_example_channel_decline_resource_post",
+    "status": "pass",
+    "time": 0.55257105827332,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_131_example_channel_decline_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_131_example_channel_decline_resource_get",
+    "status": "pass",
+    "time": 0.49866199493408,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_132_example_channel_decline_resource_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_132_example_channel_decline_resource_delete",
+    "status": "pass",
+    "time": 0.44358992576599,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_133_example_alerts_all_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_133_example_alerts_all_resource_post",
+    "status": "pass",
+    "time": 0.59044504165649,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_134_example_alerts_all_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_134_example_alerts_all_resource_get",
+    "status": "pass",
+    "time": 0.41578412055969,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_135_example_alerts_all_resource_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_135_example_alerts_all_resource_delete",
+    "status": "pass",
+    "time": 0.40558004379272,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_136_example_card_decline_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_136_example_card_decline_post",
+    "status": "pass",
+    "time": 0.41761183738708,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_137_example_card_decline_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_137_example_card_decline_get",
+    "status": "pass",
+    "time": 0.40048098564148,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_138_example_card_decline_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_138_example_card_decline_delete",
+    "status": "pass",
+    "time": 0.51434993743896,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_139_example_geolocation_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_139_example_geolocation_resource_post",
+    "status": "pass",
+    "time": 0.41539597511292,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_140_example_geolocation_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_140_example_geolocation_resource_get",
+    "status": "pass",
+    "time": 0.40909600257874,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_141_example_geolocation_resource_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_141_example_geolocation_resource_delete",
+    "status": "pass",
+    "time": 0.40266704559326,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_142_example_geolocation_decline_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_142_example_geolocation_decline_post",
+    "status": "pass",
+    "time": 0.61389589309692,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_143_example_geolocation_decline_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_143_example_geolocation_decline_get",
+    "status": "pass",
+    "time": 0.37984704971313,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_144_example_geolocation_decline_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_144_example_geolocation_decline_delete",
+    "status": "pass",
+    "time": 0.49279308319092,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_145_example_merchant_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_145_example_merchant_resource_post",
+    "status": "pass",
+    "time": 0.45806097984314,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_146_example_merchant_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_146_example_merchant_resource_get",
+    "status": "pass",
+    "time": 0.3891909122467,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_147_example_merchant_resource_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_147_example_merchant_resource_delete",
+    "status": "pass",
+    "time": 0.37579393386841,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_148_example_notification_endpoint_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_148_example_notification_endpoint_post",
+    "status": "pass",
+    "time": 0.54619193077087,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_149_example_merchant_category_code_decline_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_149_example_merchant_category_code_decline_post",
+    "status": "pass",
+    "time": 0.50496411323547,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_150_example_merchant_category_code_decline_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_150_example_merchant_category_code_decline_get",
+    "status": "pass",
+    "time": 0.43921589851379,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_151_example_merchant_category_code_decline_delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_151_example_merchant_category_code_decline_delete",
+    "status": "pass",
+    "time": 0.49367308616638,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_152_example_transaction_history_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_152_example_transaction_history_resource_get",
+    "status": "pass",
+    "time": 0.47188115119934,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_153_example_controls_history_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_153_example_controls_history_resource_get",
+    "status": "pass",
+    "time": 0.55156111717224,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_163_example_controls_budgets_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_163_example_controls_budgets_resource_post",
+    "status": "pass",
+    "time": 0.4182140827179,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_164_example_controls_budgets_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_164_example_controls_budgets_resource_get",
+    "status": "pass",
+    "time": 0.38355493545532,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_165_example_controls_budgets_resource_PostWithbudgetId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_165_example_controls_budgets_resource_PostWithbudgetId",
+    "status": "pass",
+    "time": 0.40817785263062,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_166_example_controls_budgets_resource_getWithbudgetId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_166_example_controls_budgets_resource_getWithbudgetId",
+    "status": "pass",
+    "time": 0.53834795951843,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_167_example_controls_budgets_resource_Delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_167_example_controls_budgets_resource_Delete",
+    "status": "pass",
+    "time": 0.39993786811829,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_173_example_controls_budgets_resource_decline_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_173_example_controls_budgets_resource_decline_post",
+    "status": "pass",
+    "time": 0.50634813308716,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_174_example_controls_budgets_resource_decline_post_with_budgetId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_174_example_controls_budgets_resource_decline_post_with_budgetId",
+    "status": "pass",
+    "time": 0.57247591018677,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_175_example_controls_budgets_resource_decline_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_175_example_controls_budgets_resource_decline_get",
+    "status": "pass",
+    "time": 0.4607880115509,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_176_example_controls_budgets_resource_Decline_get_WithbudgetId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_176_example_controls_budgets_resource_Decline_get_WithbudgetId",
+    "status": "pass",
+    "time": 0.47442698478699,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_177_example_controls_budgets_resource_decline_deleteWithbudgetId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_177_example_controls_budgets_resource_decline_deleteWithbudgetId",
+    "status": "pass",
+    "time": 0.40252900123596,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_178_example_batch_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_178_example_batch_resource_post",
+    "status": "pass",
+    "time": 0.58258080482483,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_180_example_filter_controls_alert_post_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_180_example_filter_controls_alert_post_request",
+    "status": "pass",
+    "time": 0.53730487823486,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_181_example_filter_controls_alert_get_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_181_example_filter_controls_alert_get_request",
+    "status": "pass",
+    "time": 26.184700012207,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_182_example_filter_controls_alert_post_filter_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_182_example_filter_controls_alert_post_filter_request",
+    "status": "pass",
+    "time": 0.51119208335876,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_184_example_filter_controls_alert_delete_filter_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_184_example_filter_controls_alert_delete_filter_request",
+    "status": "pass",
+    "time": 0.59589385986328,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_185_example_filter_controls_decline_post_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_185_example_filter_controls_decline_post_request",
+    "status": "pass",
+    "time": 0.56385803222656,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_186_example_filter_controls_decline_get_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_186_example_filter_controls_decline_get_request",
+    "status": "pass",
+    "time": 20.679491043091,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_188_example_filter_controls_decline_post_filter_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_188_example_filter_controls_decline_post_filter_request",
+    "status": "pass",
+    "time": 0.52002716064453,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_189_example_filter_controls_decline_delete_filter_request"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_189_example_filter_controls_decline_delete_filter_request",
+    "status": "pass",
+    "time": 0.47296380996704,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_190_example_controls_travelmarker_alert_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_190_example_controls_travelmarker_alert_resource_post",
+    "status": "pass",
+    "time": 0.52444005012512,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_191_example_controls_travelmarker_alert_resource_PostWithTravelId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_191_example_controls_travelmarker_alert_resource_PostWithTravelId",
+    "status": "pass",
+    "time": 0.41640615463257,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_192_example_controls_travelmarker_alert_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_192_example_controls_travelmarker_alert_resource_get",
+    "status": "pass",
+    "time": 0.63797497749329,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_193_example_controls_travelmarker_alerts_resource_getWithTravelId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_193_example_controls_travelmarker_alerts_resource_getWithTravelId",
+    "status": "pass",
+    "time": 0.53407716751099,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_194_example_controls_travelmarker_alert_resource_Delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_194_example_controls_travelmarker_alert_resource_Delete",
+    "status": "pass",
+    "time": 0.62785816192627,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_195_example_controls_travelmarker_decline_resource_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_195_example_controls_travelmarker_decline_resource_post",
+    "status": "pass",
+    "time": 0.52572989463806,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_196_example_controls_travelmarker_decline_resource_PostWithTravelId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_196_example_controls_travelmarker_decline_resource_PostWithTravelId",
+    "status": "pass",
+    "time": 0.41553902626038,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_197_example_controls_travelmarker_decline_resource_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_197_example_controls_travelmarker_decline_resource_get",
+    "status": "pass",
+    "time": 0.46197199821472,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_198_example_controls_travelmarker_decline_resource_getWithTravelId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_198_example_controls_travelmarker_decline_resource_getWithTravelId",
+    "status": "pass",
+    "time": 0.64620113372803,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_199_example_controls_travel_marker_decline_resource_DeleteWithTravelId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_199_example_controls_travel_marker_decline_resource_DeleteWithTravelId",
+    "status": "pass",
+    "time": 0.46379590034485,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_290_example_cardupdate_postrequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_290_example_cardupdate_postrequest",
+    "status": "pass",
+    "time": 0.4317479133606,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_300_example_cardregister_deleterequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Spendcontrols\\AllTest",
+    "test": "MasterCard\\Api\\Spendcontrols\\AllTest::test_300_example_cardregister_deleterequest",
+    "status": "pass",
+    "time": 0.85239100456238,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
